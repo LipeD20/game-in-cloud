@@ -86,8 +86,6 @@ html body div.container a{
     cursor: pointer;
     transition: .5s ease all;
 
-
-
 }
 .BOTAO:hover {
     background-color: white;
@@ -103,7 +101,7 @@ html body div.container a{
     width: 100%;
     display:block;
 }
-.BOTAO {
+.BOTAO teaser {
     text-decoration: none;
 }
 .carrosel-jogos-esportes {
@@ -139,7 +137,6 @@ html body div.container a{
 }
 .nav-bar {
     margin-left: 20px;
-    
 }
 
 ::-webkit-scrollbar {
